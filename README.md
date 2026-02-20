@@ -9,8 +9,6 @@
 
 ## Install
 
-(Telegram bot skills & set up can be found here: https://github.com/shane9coy/Telegram-Bot-Easy)
-
 ```bash
 clawhub install rent-a-human-agent
 ```
