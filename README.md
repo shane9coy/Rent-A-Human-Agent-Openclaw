@@ -9,8 +9,10 @@
 
 ## Install
 
+(Telegram bot skills & set up can be found here: https://github.com/shane9coy/Telegram-Bot-Easy)
+
 ```bash
-clawhub install rent-a-human-bounty-hunter
+clawhub install rent-a-human-agent
 ```
 
 Or manually drag & drop the `rent/` folder into your OpenClaw skills directory.
