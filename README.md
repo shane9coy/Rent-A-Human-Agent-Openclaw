@@ -7,6 +7,40 @@
 
 <img width="1053" height="1138" alt="rentahumanagent" src="https://github.com/user-attachments/assets/590943eb-6649-4296-bdd8-5e5a08add654" />
 
+# Features
+
+🔍 Scan Bounties - Find and score job opportunities based on your location and skills
+
+🧑‍💼 Browse Humans - View available humans for hire with skills and rates
+
+💼 View Bounties - See open jobs and opportunities
+
+📝 Post Jobs - Create new bounties directly from Telegram
+
+🎯 Smart Scanning - AI-scored opportunity recommendations
+
+🔒 Private - Bot only responds to your user ID
+
+🔗 MCP + API Integration - Direct connection to official RentAHuman.ai MCP
+
+Rent-A-Human MCP Server Integration: Full agentic access to the RentAHuman.ai platform
+
+CLI Interface: Fully customizable /rent agent mode
+
+AI-Powered Scoring: Uses Grok-4-1-fast-reasoning to score job opportunities on a scale of 0-100
+
+Smart Caching: Caches results for 12 hours to avoid redundant API calls
+
+Telegram Integration: Sends top opportunities directly to your Telegram
+
+Drag & Drop Skills: Compatible with Claude Code and OpenClaw — drop the .claude/skills/ folder into any project
+
+Multiple Scan Modes:
+
+Cached mode (fast, uses existing scores)
+Force fresh scoring (bypass cache)
+List all open jobs
+List available humans for hire
 ## Install
 
 ```bash
