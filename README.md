@@ -4,6 +4,9 @@
 🧠 **Custom [Grok](https://x.ai)-powered job hunting Bounty Hunter that filters spam, ranks by your location + skills + how easy the cash is, and beams the winners straight to your Telegram, or MCP messenger of your choice.** </br>
 🎮 **Bringing the power of robot bounty hunting to the everyday player.** </br>
 💻 Claude code / CLI version: git remote add origin https://github.com/shane9coy/Rent-A-Human-Agent
+
+<img width="1053" height="1138" alt="rentahumanagent" src="https://github.com/user-attachments/assets/590943eb-6649-4296-bdd8-5e5a08add654" />
+
 ## Install
 
 ```bash
