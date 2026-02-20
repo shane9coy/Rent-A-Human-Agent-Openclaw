@@ -1,7 +1,9 @@
-# Rent-A-Human Bounty Hunter 🦞
+# Rent-A-Human-Agent // Your lobster Bounty Hunter 🦞
 
-OpenClaw-compatible skill that scans [RentAHuman.ai](https://rentahuman.ai) bounties in real time via MCP + API. Uses Grok AI to filter spam, score opportunities by location, skills, and ease of completion, and sends top results to Telegram.
-
+🤖💰 OpenClaw-compatible SKILL that scans Rentahuman.ai in real time via MCP + API.** </br>
+🧠 **Custom [Grok](https://x.ai)-powered job hunting Bounty Hunter that filters spam, ranks by your location + skills + how easy the cash is, and beams the winners straight to your Telegram, or MCP messenger of your choice.** </br>
+🎮 **Bringing the power of robot bounty hunting to the everyday player.** </br>
+💻 Claude code / CLI version: git remote add origin https://github.com/shane9coy/Rent-A-Human-Agent
 ## Install
 
 ```bash
